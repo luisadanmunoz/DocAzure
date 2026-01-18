@@ -71,5 +71,3 @@ az monitor log-analytics workspace linked-service create \
 Y después configurar desde Azure Portal → **Automation Account → Inventory/Change Tracking**.
 
 ---
-
-¿Quieres que te muestre cómo automatizar la configuración en Arc con Terraform o desde PowerShell?
